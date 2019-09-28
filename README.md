@@ -7,7 +7,7 @@ https://medium.com/fintechexplained/what-are-eigenvalues-and-eigenvectors-a-must
 
 ### Classificiation and decision theory
 
-When our target is no longer continulous but instead belongs to a set of descrete values, we have do define desicion regions to classify our input. We can divide our input space $$\mathcal{R}^D$$ into K desicion regions
+When our target is no longer continulous but instead belongs to a set of descrete values, we have do define desicion regions to classify our input. We can divide our input space R in dimension D into K desicion regions.
 
 #### Classication theory
 
