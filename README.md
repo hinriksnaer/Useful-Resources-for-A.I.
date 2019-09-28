@@ -5,6 +5,7 @@ https://medium.com/fintechexplained/what-are-eigenvalues-and-eigenvectors-a-must
 
 ## Machine learning modeling
 
-### Desciriminative vs Generative models
+### Classificiation
+#### Desciriminative vs Generative models
 https://medium.com/@jordi299/about-generative-and-discriminative-models-d8958b67ad32
 https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-a-discriminative-algorithm
