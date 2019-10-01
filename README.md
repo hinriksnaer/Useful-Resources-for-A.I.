@@ -16,3 +16,6 @@ When our target is no longer continulous but instead belongs to a set of descret
 #### Desciriminative vs Generative models
 https://medium.com/@jordi299/about-generative-and-discriminative-models-d8958b67ad32
 https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-a-discriminative-algorithm
+
+#### Gradient decent
+https://www.youtube.com/watch?v=IHZwWFHWa-w&t=475s
