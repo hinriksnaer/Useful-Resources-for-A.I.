@@ -21,5 +21,5 @@ https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-gene
 https://www.youtube.com/watch?v=IHZwWFHWa-w&t=475s
 https://medium.com/mindorks/an-introduction-to-gradient-descent-7b0c6d9e49f6
 
-#### Newton rhapson method
+#### Newton raphson gradient descent
 https://www.youtube.com/watch?v=28BMpgxn_Ec
