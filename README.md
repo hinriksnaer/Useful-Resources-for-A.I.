@@ -17,5 +17,9 @@ When our target is no longer continulous but instead belongs to a set of descret
 https://medium.com/@jordi299/about-generative-and-discriminative-models-d8958b67ad32
 https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-a-discriminative-algorithm
 
-#### Gradient decent
+### Gradient decent
 https://www.youtube.com/watch?v=IHZwWFHWa-w&t=475s
+https://medium.com/mindorks/an-introduction-to-gradient-descent-7b0c6d9e49f6
+
+#### Newton rhapson method
+https://www.youtube.com/watch?v=28BMpgxn_Ec
