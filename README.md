@@ -3,7 +3,9 @@
 ### Eigenvalues
 https://medium.com/fintechexplained/what-are-eigenvalues-and-eigenvectors-a-must-know-concept-for-machine-learning-80d0fd330e47
 
-## Machine learning modeling
+## Machine learning
+### Useful resources
+https://www.youtube.com/watch?v=yDLKJtOVx5c&list=PLD0F06AA0D2E8FFBA
 
 ### Classificiation and decision theory
 
