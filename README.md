@@ -25,3 +25,7 @@ https://medium.com/mindorks/an-introduction-to-gradient-descent-7b0c6d9e49f6
 
 #### Newton raphson gradient descent
 https://www.youtube.com/watch?v=28BMpgxn_Ec
+
+### Unsupervised learning
+#### Gaussian mixture models and k-means
+https://towardsdatascience.com/gaussian-mixture-models-explained-6986aaf5a95
